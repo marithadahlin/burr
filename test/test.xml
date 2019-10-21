@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
  
-<suite name="MindGameSuite" verbose="1" >
-  <test name="MindGame"   >
+<suite name="BurrSuite" verbose="1" >
+  <test name="Burr"   >
     <classes>
       <class name="PlayerTest" />
       <class name="GameRulesTest" />
