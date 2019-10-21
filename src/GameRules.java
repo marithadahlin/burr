@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by robkr on 2014-09-15.
+ * Created 2019-10-21
  */
 public class GameRules {
 
