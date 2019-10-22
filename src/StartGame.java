@@ -1,4 +1,3 @@
-package burr;
 
 /**
  * Created by robkr on 2014-09-30.
