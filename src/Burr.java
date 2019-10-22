@@ -2,7 +2,7 @@
  * This is a game called Burr, for more information about the game goto:
  * https://www.dryckesspel.se/burr/
  */
-package burr;
+
 
 /**
  *
